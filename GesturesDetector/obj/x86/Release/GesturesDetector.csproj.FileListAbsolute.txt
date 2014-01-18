@@ -1,0 +1,11 @@
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\bin\Release\GesturesDetector.exe
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\bin\Release\GesturesDetector.pdb
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Release\MainWindow.baml
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Release\MainWindow.g.cs
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Release\App.g.cs
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Release\GesturesDetector_MarkupCompile.cache
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Release\GesturesDetector.g.resources
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Release\GesturesDetector.Properties.Resources.resources
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Release\GesturesDetector.csproj.GenerateResource.Cache
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Release\GesturesDetector.exe
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Release\GesturesDetector.pdb

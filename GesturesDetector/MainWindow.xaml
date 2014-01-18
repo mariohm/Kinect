@@ -1,0 +1,19 @@
+﻿<Window x:Class="GesturesDetector.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Gestures Detector" Height="698" Width="1116" Loaded="Window_Loaded" Closing="Window_Closing">
+    <Grid Height="652" Width="1048">
+        <Image Height="480" HorizontalAlignment="Left" Margin="41,131,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="640" />
+        <Image Source="./Images/Swipe.png" Height="628" HorizontalAlignment="Left" Margin="740,12,0,0" Name="image2" Stretch="Fill" VerticalAlignment="Top" Width="96" />
+        <Image Visibility="Hidden" Source="./Images/green-tick.png" Height="60" HorizontalAlignment="Left" Margin="927,12,0,0" Name="imDR" Stretch="Fill" VerticalAlignment="Top" Width="67" />
+        <Image Visibility="Hidden" Source="./Images/green-tick.png" Height="60" HorizontalAlignment="Left" Margin="927,580,0,0" Name="imRD" Stretch="Fill" VerticalAlignment="Top" Width="67" />
+        <Image Visibility="Hidden" Source="./Images/green-tick.png" Height="60" HorizontalAlignment="Left" Margin="927,504,0,0" Name="imLD" Stretch="Fill" VerticalAlignment="Top" Width="67" />
+        <Image Visibility="Hidden" Source="./Images/green-tick.png" Height="60" HorizontalAlignment="Left" Margin="927,426,0,0" Name="imRU" Stretch="Fill" VerticalAlignment="Top" Width="67" />
+        <Image Visibility="Hidden" Source="./Images/green-tick.png" Height="60" HorizontalAlignment="Left" Margin="927,346,0,0" Name="imLU" Stretch="Fill" VerticalAlignment="Top" Width="67" />
+        <Image Visibility="Hidden" Source="./Images/green-tick.png" Height="60" HorizontalAlignment="Left" Margin="927,263,0,0" Name="imUR" Stretch="Fill" VerticalAlignment="Top" Width="67" />
+        <Image Visibility="Hidden" Source="./Images/green-tick.png" Height="60" HorizontalAlignment="Left" Margin="927,180,0,0" Name="imUL" Stretch="Fill" VerticalAlignment="Top" Width="67" />
+        <Image Visibility="Hidden" Source="./Images/green-tick.png" Height="60" HorizontalAlignment="Left" Margin="927,99,0,0" Name="imDL" Stretch="Fill" VerticalAlignment="Top" Width="67" />
+        <Label Content="1.- Observe como detecta Kinect si levanta alguna mano o pierna" FontSize="20" Height="42" HorizontalAlignment="Left" Margin="41,24,0,0" Name="label1" VerticalAlignment="Top" Width="587" />
+        <Label Content="2.- Intente realizar alguno de estos movimientos con la mano" FontSize="20" Height="42" HorizontalAlignment="Left" Margin="41,66,0,0" Name="label2" VerticalAlignment="Top" Width="587" />
+    </Grid>
+</Window>

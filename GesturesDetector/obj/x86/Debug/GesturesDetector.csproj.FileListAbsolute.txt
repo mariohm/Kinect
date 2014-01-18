@@ -1,0 +1,24 @@
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\bin\Debug\GesturesDetector.exe
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\bin\Debug\GesturesDetector.pdb
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Debug\GesturesDetector.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Debug\MainWindow.baml
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Debug\App.g.cs
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Debug\GesturesDetector_MarkupCompile.cache
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Debug\GesturesDetector.g.resources
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Debug\GesturesDetector.Properties.Resources.resources
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Debug\GesturesDetector.csproj.GenerateResource.Cache
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Debug\GesturesDetector.exe
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\GesturesDetector\obj\x86\Debug\GesturesDetector.pdb
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\GestosKinect\GesturesDetector\obj\x86\Debug\GesturesDetector.exe
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\GestosKinect\GesturesDetector\obj\x86\Debug\GesturesDetector.pdb
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\GestosKinect\GesturesDetector\bin\Debug\GesturesDetector.exe
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\GestosKinect\GesturesDetector\bin\Debug\GesturesDetector.pdb
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\GestosKinect\GesturesDetector\obj\x86\Debug\GesturesDetector.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\GestosKinect\GesturesDetector\obj\x86\Debug\MainWindow.baml
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\GestosKinect\GesturesDetector\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\GestosKinect\GesturesDetector\obj\x86\Debug\App.g.cs
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\GestosKinect\GesturesDetector\obj\x86\Debug\GesturesDetector_MarkupCompile.cache
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\GestosKinect\GesturesDetector\obj\x86\Debug\GesturesDetector.g.resources
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\GestosKinect\GesturesDetector\obj\x86\Debug\GesturesDetector.Properties.Resources.resources
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\GestosKinect\GesturesDetector\obj\x86\Debug\GesturesDetector.csproj.GenerateResource.Cache
