@@ -1,0 +1,38 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:Coding4Fun.Kinect.Wpf.Controls;assembly=Coding4Fun.Kinect.Wpf"
+        xmlns:WpfViewers="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers" x:Class="PaintProyect.MainWindow"
+        xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        Title="Kinect Paint" Loaded="Window_Loaded" Closing="Window_Closing" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" Height="755" Width="988" ResizeMode="CanResizeWithGrip">
+    <Canvas Name="MainCanvas" Margin="0" Width="Auto" Height="722">
+        <Image x:Name="image" Height="Auto" Canvas.Top="150" Width="602" Canvas.Left="55" Source="Images/imagePizarra.jpg"/>
+        <Image x:Name="imageSave" Height="94" Width="92" Canvas.Left="839" Canvas.Top="73" Source="Images/save.png"/>
+        <Image x:Name="imageExit" Height="94" Width="92" Canvas.Left="839" Canvas.Top="194" Source="Images/close_icon.png"/>
+        <Image x:Name="imageSpain" Height="94" Width="92" Canvas.Left="663" Canvas.Top="338" Source="Images/spain.png" Visibility="Hidden"/>
+        <Image x:Name="imageEEUU" Height="94" Width="92" Canvas.Left="663" Canvas.Top="338" Source="Images/united_states.png" Visibility="Hidden"/>
+        <Image x:Name="imageHand" Height="70" Width="70" Canvas.Left="725" Canvas.Top="132" Source="Images/hand.png"/>
+        <Image Canvas.Left="796" Canvas.Top="340" Height="20" Name="imageArrow" Stretch="Fill" Width="46" Source="Images/flecha.jpg" />
+        <Controls:HoverButton x:Name="hoverSave" ImageSize="100" TimeInterval="1000" Height="94" Width="92" Canvas.Left="839" Canvas.Top="72" Margin="0,1,1,0" />
+        <Controls:HoverButton x:Name="hoverExit" ImageSize="100" TimeInterval="1000" Height="94" Width="92" Canvas.Left="839" Canvas.Top="194" />
+        <TextBlock FontSize="20" Canvas.Left="539" Canvas.Top="632" Height="42" Name="textBlock1" Text="" Width="381" />
+        <WindowsFormsHost Canvas.Left="75" Canvas.Top="181" Height="401" Name="windowsFormsHost1" Width="571" >
+            <wf:Panel x:Name="paintPanel"/>
+        </WindowsFormsHost>
+        <TextBlock FontSize="22" Canvas.Left="49" Canvas.Top="632" Height="44" Name="textBlock2" Text="" Width="347" />
+        <Label BorderBrush="#FF0D0D0D" BorderThickness="2" Canvas.Left="850" Canvas.Top="340" Content="" Height="20" Name="labelBlack" Width="100" Background="Black" />
+        <Label BorderBrush="#FF0D0D0D" BorderThickness="2" Canvas.Left="850" Canvas.Top="360" Content="" Height="20" Name="labelGray" Width="100" Background="DarkGray" />
+        <Label BorderBrush="#FF0D0D0D" BorderThickness="2" Canvas.Left="850" Canvas.Top="380" Content="" Height="20" Name="labePurple" Width="100" Background="Purple"/>
+        <Label BorderBrush="#FF0D0D0D" BorderThickness="2" Canvas.Left="850" Canvas.Top="400" Content="" Height="20" Name="labelGreen" Width="100" Background="Green" />
+        <Label BorderBrush="#FF0D0D0D" BorderThickness="2" Canvas.Left="850" Canvas.Top="420" Content="" Height="20" Name="labelRed" Width="100" Background="Red" />
+        <Label BorderBrush="#FF0D0D0D" BorderThickness="2" Canvas.Left="850" Canvas.Top="440" Content="" Height="20" Name="labelBlue" Width="100" Background="Blue" />
+        <Label BorderBrush="#FF0D0D0D" BorderThickness="2" Canvas.Left="850" Canvas.Top="460" Content="" Height="20" Name="labelOrange" Width="100" Background="OrangeRed" />
+        <Label BorderBrush="#FF0D0D0D" BorderThickness="2" Canvas.Left="850" Canvas.Top="480" Content="" Height="20" Name="labelYellow" Width="100" Background="Yellow" />
+        <Label BorderBrush="#FF0D0D0D" BorderThickness="2" Canvas.Left="850" Canvas.Top="500" Content="" Height="20" Name="labelWhite" Width="100" Background="White"/>
+        <Label Canvas.Left="70" Canvas.Top="-107" Content="1.- Observe como detecta Kinect si levanta alguna mano o pierna" FontSize="20" Height="42" Name="label1" Width="587" />
+        <Label Canvas.Left="59" Canvas.Top="10" Content="1.- Levante la mano izquierda por encima de la cintura para poder dibujar con la mano derecha en la pizarra" FontSize="18" Height="35" Name="label2" Width="872" />
+        <Label Canvas.Left="59" Canvas.Top="40" Content="2.- Observe la bandera para determinar el idioma del reconocedor de voz" FontSize="18" Height="35" Name="label3" Width="598" />
+        <Label Canvas.Left="59" Canvas.Top="70" Content="3.- Para cambiar el color del lápiz diga el color que desee" FontSize="18" Height="35" Name="label4" Width="587" />
+        <Label Canvas.Left="59" Canvas.Top="100" Content="4.- Diga borrar/delete si desea borrar la pizarra"  FontSize="18" Height="35" Name="label5" Width="587" />
+    </Canvas>
+</Window>

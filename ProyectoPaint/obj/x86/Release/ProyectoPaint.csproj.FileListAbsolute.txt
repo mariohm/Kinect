@@ -1,0 +1,43 @@
+C:\Users\Mario\AppData\Local\Temporary Projects\ProyectoPaint\bin\Release\ProyectoPaint.exe
+C:\Users\Mario\AppData\Local\Temporary Projects\ProyectoPaint\bin\Release\ProyectoPaint.pdb
+C:\Users\Mario\AppData\Local\Temporary Projects\ProyectoPaint\obj\x86\Release\MainWindow.baml
+C:\Users\Mario\AppData\Local\Temporary Projects\ProyectoPaint\obj\x86\Release\MainWindow.g.cs
+C:\Users\Mario\AppData\Local\Temporary Projects\ProyectoPaint\obj\x86\Release\App.g.cs
+C:\Users\Mario\AppData\Local\Temporary Projects\ProyectoPaint\obj\x86\Release\ProyectoPaint_MarkupCompile.cache
+C:\Users\Mario\AppData\Local\Temporary Projects\ProyectoPaint\obj\x86\Release\ProyectoPaint.g.resources
+C:\Users\Mario\AppData\Local\Temporary Projects\ProyectoPaint\obj\x86\Release\ProyectoPaint.Properties.Resources.resources
+C:\Users\Mario\AppData\Local\Temporary Projects\ProyectoPaint\obj\x86\Release\ProyectoPaint.csproj.GenerateResource.Cache
+C:\Users\Mario\AppData\Local\Temporary Projects\ProyectoPaint\obj\x86\Release\ProyectoPaint.exe
+C:\Users\Mario\AppData\Local\Temporary Projects\ProyectoPaint\obj\x86\Release\ProyectoPaint.pdb
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\obj\x86\Release\ProyectoPaint.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\obj\x86\Release\MainWindow.baml
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\obj\x86\Release\MainWindow.g.cs
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\obj\x86\Release\App.g.cs
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\obj\x86\Release\ProyectoPaint_MarkupCompile.cache
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\obj\x86\Release\ProyectoPaint.g.resources
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\obj\x86\Release\ProyectoPaint.Properties.Resources.resources
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\obj\x86\Release\ProyectoPaint.csproj.GenerateResource.Cache
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\obj\x86\Release\ProyectoPaint.exe
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\bin\Release\ProyectoPaint.exe
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\bin\Release\ProyectoPaint.pdb
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Mario\Dropbox\gradoInf\4º\NPI\Practicas\Taller_Trabajo_4\Kinect\ProyectoPaint\obj\x86\Release\ProyectoPaint.pdb
+C:\Users\Migue\Dropbox\Mario - Migue\NPI\ProyectoPaint\obj\x86\Release\ProyectoPaint.exe
+C:\Users\Migue\Dropbox\Mario - Migue\NPI\ProyectoPaint\obj\x86\Release\ProyectoPaint.pdb
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\ProyectoPaint_mario\bin\Release\ProyectoPaint.exe
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\ProyectoPaint_mario\bin\Release\ProyectoPaint.pdb
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\ProyectoPaint_mario\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\ProyectoPaint_mario\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\ProyectoPaint_mario\obj\x86\Release\ProyectoPaint.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\ProyectoPaint_mario\obj\x86\Release\MainWindow.baml
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\ProyectoPaint_mario\obj\x86\Release\MainWindow.g.cs
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\ProyectoPaint_mario\obj\x86\Release\App.g.cs
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\ProyectoPaint_mario\obj\x86\Release\ProyectoPaint_MarkupCompile.cache
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\ProyectoPaint_mario\obj\x86\Release\ProyectoPaint.g.resources
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\ProyectoPaint_mario\obj\x86\Release\ProyectoPaint.Properties.Resources.resources
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\ProyectoPaint_mario\obj\x86\Release\ProyectoPaint.csproj.GenerateResource.Cache
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\ProyectoPaint_mario\obj\x86\Release\ProyectoPaint.exe
+C:\Users\Mario\Dropbox\Mario - Migue\NPI\ProyectoPaint_mario\obj\x86\Release\ProyectoPaint.pdb

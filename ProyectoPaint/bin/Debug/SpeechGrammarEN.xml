@@ -1,0 +1,49 @@
+﻿<grammar version="1.0" xml:lang="en-US" root="rootRule" 
+         tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="rootRule">
+    <one-of>
+	  <item>
+        <tag>NEGRO</tag>
+        <item> black </item>
+      </item>
+      <item>
+        <tag>GRIS</tag>
+        <item> grey </item>
+      </item>
+      <item>
+        <tag>MORADO</tag>
+        <item> purple </item>
+      </item>
+      <item>
+        <tag>VERDE</tag>
+          <item> green </item>
+      </item>
+      <item>
+        <tag>ROJO</tag>
+          <item> red </item>
+      </item>
+	  <item>
+        <tag>AZUL</tag>
+          <item> blue </item>
+      </item>
+	  <item>
+        <tag>NARANJA</tag>
+          <item> orange </item>
+      </item>
+	  <item>
+        <tag>AMARILLO</tag>
+          <item> yellow </item>
+      </item>
+	  <item>
+        <tag>BLANCO</tag>
+          <item> white </item>
+      </item>
+	  <item>
+	  <item>
+        <tag>BORRAR</tag>
+          <item> delete </item>
+      </item>
+	  
+    </one-of>
+  </rule>
+</grammar>
