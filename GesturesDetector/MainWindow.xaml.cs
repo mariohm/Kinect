@@ -18,7 +18,7 @@ using System.IO;
 
 namespace GesturesDetector
 {
-	/// <summary>
+	/// <summary> Actualización
 	/// Lógica de interacción para MainWindow.xaml
 	/// </summary>
 	public partial class MainWindow : Window
@@ -628,7 +628,7 @@ namespace GesturesDetector
 			//Obtenemos posicion de la columna para controlar el salto.
 			Position3 spine = new Position3();
 			PosDetecter(ref spine, skel.Joints[JointType.Spine]);
-			
+
 			//Guardamos en listas espeíficas las posiciones que trataremos en el control de gestos
 			positionHandRightList.Add(handRight);
 			positionHandLeftList.Add(handLeft);
@@ -654,7 +654,7 @@ namespace GesturesDetector
 			//Si saltamos, pintamos las piernas de blanco
 			if (jump())
 				trackedLegLPen = trackedLegRPen = whitePen;
-			
+
 			//Pintamos el skeleton de azul si corresponde
 			handDefault(handRight, handLeft, hipCenter);
 
